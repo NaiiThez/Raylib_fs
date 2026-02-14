@@ -1,0 +1,8 @@
+.vscode/
+.config
+
+Raylib_fs/bin
+Raylib_fs/obj
+
+Raylib_fs_test/bin
+Raylib_fs_test/obj
